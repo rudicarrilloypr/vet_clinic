@@ -31,7 +31,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [vet_clinic] <a name="about-project"></a>
+# 📖 vet_clinic <a name="about-project"></a>
 
 **vet_clinic** is a animal-related data within a veterinary clinic.
 
