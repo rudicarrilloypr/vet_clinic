@@ -1,3 +1,4 @@
+-- schema.sql
 CREATE DATABASE vet_clinic;
 
 CREATE TABLE animals (

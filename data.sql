@@ -1,3 +1,4 @@
+-- data.sql
 -- Insertar datos existentes de animales
 INSERT INTO animals (name, date_of_birth, weight_kg, neutered, escape_attempts)
 VALUES 
