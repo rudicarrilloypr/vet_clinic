@@ -10,3 +10,9 @@ CREATE TABLE medical_histories (
   patient_id INTEGER UNIQUE REFERENCES patients(id),
   email VARCHAR(120)
 );
+
+CREATE TABLE treatments (
+  id SERIAL PRIMARY KEY,
+  type VARCHAR(100),
+  name VARCHAR(255)
+);
