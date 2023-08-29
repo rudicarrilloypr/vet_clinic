@@ -110,6 +110,12 @@ Clone this repository to your desired folder:
 - LinkedIn: [Rudi Carrillo](https://www.linkedin.com/in/rudi-carrillo/)
 - Instagram: [@__rudicarrillo](https://www.instagram.com/_rudicarrillo/)
 
+👤 **khaled alaa**
+
+- GitHub: [Khaled-Alaa-1](https://github.com/Khaled-Alaa-1)
+- Twitter: [@Khaled86756991](https://twitter.com/Khaled86756991)
+- LinkedIn: [Khaled Alaa](https://www.linkedin.com/in/khaled-alaa-594bb9256/)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
