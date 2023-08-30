@@ -34,7 +34,7 @@
 # 📖 Vet Clinic <a name="about-project"></a>
 
 **vet_clinic** is a animal-related data within a veterinary clinic.
- <img src="./assets/database-schema.png" alt="logo" />
+ <img src="./assets/vetclinic-schema.png" alt="logo" />
 
 ## 🛠 Built With <a name="built-with"></a>
 - Ruby on Rails
