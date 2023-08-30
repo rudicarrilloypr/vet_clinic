@@ -12,6 +12,7 @@ CREATE TABLE medical_histories (
   patient_id INTEGER UNIQUE REFERENCES patients(id),
   email      VARCHAR(120)
 );
+CREATE INDEX idx_medical_histories_patient_id ON medical_histories (patient_id);
 
 -- Creating treatments table
 CREATE TABLE treatments (
@@ -37,6 +38,7 @@ CREATE TABLE invoices (
   payed_at         TIMESTAMP,
   medical_history_id INTEGER UNIQUE REFERENCES medical_histories(id)
 );
+CREATE INDEX idx_invoices_medical_history_id ON invoices (medical_history_id);
 
 -- Creating invoice_items table
 CREATE TABLE invoice_items (
